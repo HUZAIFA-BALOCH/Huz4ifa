@@ -67,8 +67,8 @@ def tik():
 
 
 back = 0
-OK🔥 = []
-CP😢 = []
+OK = []
+CP = []
 oks = []
 id = []
 listgrup = []
